@@ -36,7 +36,7 @@ Siga os passos abaixo para configurar e rodar o projeto em um ambiente local.
 1.  **Clone o Repositório:**
     Abra seu terminal e clone este repositório do GitHub.
     ```bash
-    git clone <https://github.com/viniaug7/AS05.git>
+    git clone https://github.com/viniaug7/AS05.git
     cd <NOME_DA_PASTA_DO_PROJETO>
     ```
 
