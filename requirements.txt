@@ -6,3 +6,5 @@ langchain-google-genai
 google-generativeai
 pypdf
 faiss-cpu
+youtube-transcript-api 
+pytube
