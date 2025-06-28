@@ -2,7 +2,7 @@
 
 ## Autor
 
-**Vinicius Augusto Alves Santos Mello**
+**Vinícius Augusto Alves Santos Mello**
 
 ## Descrição do Projeto
 
