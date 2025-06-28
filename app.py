@@ -13,7 +13,6 @@ import os
 # --- Configuração da API Key ---
 # Para rodar localmente, crie um arquivo .env na raiz do projeto com a linha:
 # GOOGLE_API_KEY="SUA_API_KEY_AQUI"
-# Para deploy no Streamlit Community Cloud, use o gerenciador de segredos (secrets).
 from dotenv import load_dotenv
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
