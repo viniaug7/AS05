@@ -14,7 +14,7 @@ O sistema utiliza um Modelo de Linguagem Grande (LLM) da família Gemini, do Goo
 
 A versão funcional e online desta aplicação está disponível no Streamlit Community Cloud através do seguinte link:
 
-[**https://vinicius-augusto-as05.streamlit.app/**]
+**https://vinicius-augusto-as05.streamlit.app/**
 
 ## Funcionalidades
 
