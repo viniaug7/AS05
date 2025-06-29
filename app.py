@@ -104,6 +104,13 @@ with st.sidebar:
         else:
             st.warning("Por favor, carregue ao menos um arquivo PDF.")
 
+    st.markdown("---")
+    st.markdown("""
+    **Autor:** Vinícius Augusto Alves Santos Mello 
+    **GitHub:** [viniaug7](https://github.com/viniaug7)  
+    **LinkedIn:** [Vinícius Augusto](https://www.linkedin.com/in/vinícius-augusto-0558a7272/)
+    """)
+
 st.header("Faça sua Pergunta")
 
 # Inicializa o histórico do chat
