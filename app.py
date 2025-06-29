@@ -107,7 +107,11 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("""
     **Autor:** Vinícius Augusto Alves Santos Mello 
-    **GitHub:** [viniaug7](https://github.com/viniaug7)  
+    """)
+    st.markdown("""
+    **GitHub:** [viniaug7](https://github.com/viniaug7)
+    """)
+    st.markdown("""
     **LinkedIn:** [Vinícius Augusto](https://www.linkedin.com/in/vinícius-augusto-0558a7272/)
     """)
 
