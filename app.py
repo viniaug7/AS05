@@ -39,7 +39,6 @@ def get_text_chunks(text):
     chunks = text_splitter.split_text(text)
     return chunks
 
-@st.cache_resource
 def get_vector_store(_chunks):
     """Cria e armazena os embeddings vetoriais."""
     if not _chunks:
